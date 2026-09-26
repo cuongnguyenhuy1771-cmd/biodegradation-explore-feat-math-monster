@@ -11,7 +11,13 @@
 - Quên mật khẩu (OTP + đặt lại mật khẩu)
 - Chọn nhân vật (Thiên Định, Linh Chi, …)
 - Thiết lập avatar sau đăng ký
-
+![Ảnh minh họa layout](https://drive.google.com/file/d/1SEOrqKOAPy32TL9pNkiQ_RWBdE-fsAmk/view?usp=sharing)
+![](https://drive.google.com/file/d/18u7pIAPH_JZgk8An-a22k2PGshmhlI04/view?usp=sharing)
+![](https://drive.google.com/file/d/19fkwtc3q_xEnltrbSAaLsdrwtDaYjML1/view?usp=sharing)
+![Các nhân vật](https://drive.google.com/file/d/1ZcfniSuUbFZz5AGKkJoXPHtqdIVaS9JT/view?usp=sharing)
+[](https://drive.google.com/file/d/1EMMzURlj9wMao5z5w9qKgVwZW-QcEiDy/view?usp=sharing)
+[](https://drive.google.com/file/d/11mN5rQQXhGvOwp1KpyudSJdmGICR68YG/view?usp=sharing)
+[](https://drive.google.com/file/d/14OUHmQwL2jVKSYf2ZjnMGYQ-PPHCY4cT/view?usp=sharing)
 ### Tab chính
 
 | Tab | Route | Mô tả |
