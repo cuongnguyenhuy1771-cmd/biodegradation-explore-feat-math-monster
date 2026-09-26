@@ -11,19 +11,28 @@
 - Quên mật khẩu (OTP + đặt lại mật khẩu)
 - Chọn nhân vật (Thiên Định, Linh Chi, …)
 - Thiết lập avatar sau đăng ký
+### Ảnh minh họa layout
+
 <table>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1SEOrqKOAPy32TL9pNkiQ_RWBdE-fsAmk" alt="Screenshot 1"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=18u7pIAPH_JZgk8An-a22k2PGshmhlI04" alt="Screenshot 2"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=19fkwtc3q_xEnltrbSAaLsdrwtDaYjML1" alt="Screenshot 3"></td>
-  </tr>
-  <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1ZcfniSuUbFZz5AGKkJoXPHtqdIVaS9JT" alt="Screenshot 4"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1EMMzURlj9wMao5z5w9qKgVwZW-QcEiDy" alt="Screenshot 5"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=11mN5rQQXhGvOwp1KpyudSJdmGICR68YG" alt="Screenshot 6"></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=14OUHmQwL2jVKSYf2ZjnMGYQ-PPHCY4cT" alt="Screenshot 7"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1SEOrqKOAPy32TL9pNkiQ_RWBdE-fsAmk&sz=w1000" width="220" alt="Screenshot 1"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=18u7pIAPH_JZgk8An-a22k2PGshmhlI04&sz=w1000" width="220" alt="Screenshot 2"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=19fkwtc3q_xEnltrbSAaLsdrwtDaYjML1&sz=w1000" width="220" alt="Screenshot 3"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1GBISYo1Wdw1sTp1kkXtl1u7ut095CiX6&sz=w1000" width="220" alt="Screenshot 4"></td>
   </tr>
 </table>
+
+### Các nhân vật
+
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/thumbnail?id=1ZcfniSuUbFZz5AGKkJoXPHtqdIVaS9JT&sz=w1000" width="220" alt="Character 1"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1EMMzURlj9wMao5z5w9qKgVwZW-QcEiDy&sz=w1000" width="220" alt="Character 2"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=11mN5rQQXhGvOwp1KpyudSJdmGICR68YG&sz=w1000" width="220" alt="Character 3"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=14OUHmQwL2jVKSYf2ZjnMGYQ-PPHCY4cT&sz=w1000" width="220" alt="Character 4"></td>
+  </tr>
+</table>
+
 ### Tab chính
 
 | Tab | Route | Mô tả |
