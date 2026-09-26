@@ -28,6 +28,7 @@
     <td><img src="https://drive.google.com/thumbnail?id=1ZcfniSuUbFZz5AGKkJoXPHtqdIVaS9JT&sz=w1000" width="220" alt="Giao diện game 1"></td>
     <td><img src="https://drive.google.com/thumbnail?id=17xB_8zhAI2OKy8e9zGcoK60k_48nSfLN&sz=w1000" width="220" alt="Giao diện game 2"></td>
     <td><img src="https://drive.google.com/thumbnail?id=1V1UiCOywJVZMUL--EUdG14ZOYwU6Z9tW&sz=w1000" width="220" alt="Giao diện game 3"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1_bemq6doJBD1xVSSJdN9n6t2oQ9CjMuh&sz=w1000" width="220" alt="Giao diện game 4"></td>
   </tr>
 </table>
 
