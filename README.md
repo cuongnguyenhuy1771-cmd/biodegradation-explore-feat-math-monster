@@ -223,5 +223,4 @@ View: `leaderboard` · RPC: `complete_battle`, `claim_daily_task`
 ---
 
 ## License
-
-MIT — Developer: TNtuandev
+Developer: Cuong Huy Nguyen
