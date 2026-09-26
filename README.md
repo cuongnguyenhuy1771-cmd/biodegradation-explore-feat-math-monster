@@ -11,25 +11,44 @@
 - Quên mật khẩu (OTP + đặt lại mật khẩu)
 - Chọn nhân vật (Thiên Định, Linh Chi, …)
 - Thiết lập avatar sau đăng ký
-### Ảnh minh họa layout
+## Giao diện đăng nhập, đăng ký & quên mật khẩu
 
 <table>
   <tr>
-    <td><img src="https://drive.google.com/thumbnail?id=1SEOrqKOAPy32TL9pNkiQ_RWBdE-fsAmk&sz=w1000" width="220" alt="Screenshot 1"></td>
-    <td><img src="https://drive.google.com/thumbnail?id=18u7pIAPH_JZgk8An-a22k2PGshmhlI04&sz=w1000" width="220" alt="Screenshot 2"></td>
-    <td><img src="https://drive.google.com/thumbnail?id=19fkwtc3q_xEnltrbSAaLsdrwtDaYjML1&sz=w1000" width="220" alt="Screenshot 3"></td>
-    <td><img src="https://drive.google.com/thumbnail?id=1GBISYo1Wdw1sTp1kkXtl1u7ut095CiX6&sz=w1000" width="220" alt="Screenshot 4"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1SEOrqKOAPy32TL9pNkiQ_RWBdE-fsAmk&sz=w1000" width="220" alt="Đăng nhập"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=18u7pIAPH_JZgk8An-a22k2PGshmhlI04&sz=w1000" width="220" alt="Đăng ký"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=19fkwtc3q_xEnltrbSAaLsdrwtDaYjML1&sz=w1000" width="220" alt="Quên mật khẩu"></td>
   </tr>
 </table>
 
-### Các nhân vật
+## Giao diện game
 
 <table>
   <tr>
-    <td><img src="https://drive.google.com/thumbnail?id=1ZcfniSuUbFZz5AGKkJoXPHtqdIVaS9JT&sz=w1000" width="220" alt="Character 1"></td>
-    <td><img src="https://drive.google.com/thumbnail?id=1EMMzURlj9wMao5z5w9qKgVwZW-QcEiDy&sz=w1000" width="220" alt="Character 2"></td>
-    <td><img src="https://drive.google.com/thumbnail?id=11mN5rQQXhGvOwp1KpyudSJdmGICR68YG&sz=w1000" width="220" alt="Character 3"></td>
-    <td><img src="https://drive.google.com/thumbnail?id=14OUHmQwL2jVKSYf2ZjnMGYQ-PPHCY4cT&sz=w1000" width="220" alt="Character 4"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1ZcfniSuUbFZz5AGKkJoXPHtqdIVaS9JT&sz=w1000" width="220" alt="Giao diện game 1"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=17xB_8zhAI2OKy8e9zGcoK60k_48nSfLN&sz=w1000" width="220" alt="Giao diện game 2"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1V1UiCOywJVZMUL--EUdG14ZOYwU6Z9tW&sz=w1000" width="220" alt="Giao diện game 3"></td>
+  </tr>
+</table>
+
+## Bảng xếp hạng, Profile & Bộ sưu tập
+
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/thumbnail?id=1BTsKs2tr0Dq4CMeDoqqZvf4aNsKF_6Db&sz=w1000" width="220" alt="Bảng xếp hạng"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1PdCJPqbCpHhwKqk7vHwvgpttfNfCi1yc&sz=w1000" width="220" alt="Profile"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1Y5E0R8LVHAi4MmEipUvezzkFzr_nmvwG&sz=w1000" width="220" alt="Bộ sưu tập"></td>
+  </tr>
+</table>
+
+## Các nhân vật
+
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/thumbnail?id=1ZcfniSuUbFZz5AGKkJoXPHtqdIVaS9JT&sz=w1000" width="220" alt="Nhân vật 1"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=1EMMzURlj9wMao5z5w9qKgVwZW-QcEiDy&sz=w1000" width="220" alt="Nhân vật 2"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=11mN5rQQXhGvOwp1KpyudSJdmGICR68YG&sz=w1000" width="220" alt="Nhân vật 3"></td>
+    <td><img src="https://drive.google.com/thumbnail?id=14OUHmQwL2jVKSYf2ZjnMGYQ-PPHCY4cT&sz=w1000" width="220" alt="Nhân vật 4"></td>
   </tr>
 </table>
 
