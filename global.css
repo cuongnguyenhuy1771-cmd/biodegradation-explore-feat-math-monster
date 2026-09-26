@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Web: đồng bộ sans với Space Grotesk đã load qua expo-font */
+@layer base {
+  html,
+  body {
+    font-family: SpaceGrotesk_400Regular, ui-sans-serif, system-ui, sans-serif;
+  }
+}
