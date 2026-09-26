@@ -3,7 +3,7 @@
 Ứng dụng di động (React Native / Expo) giúp trẻ em học toán qua trận đấu với quái vật. Người chơi chọn anh hùng, chinh phục từng thế giới/khu vực, thu thập quái vật và leo bảng xếp hạng. Backend **Supabase** (Auth, PostgreSQL, Storage, RPC).
 
 ---
-## [LINK-DEMO](https://drive.google.com/drive/folders/1_vzvVI2kebqbrsIsAMhIFbQinboB0_4D)
+## [LINK-DEMO](https://drive.google.com/file/d/10RCPs6oddWwvyXqt0c4fYbG5tQ0vu0eK/view?usp=sharing)
 ## Tính năng chính
 
 ### Xác thực & onboarding
